@@ -5,6 +5,7 @@ const App = () =>{
         <NamedComponent name="Jack"/>
         </div>
     )
+    
 }
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
